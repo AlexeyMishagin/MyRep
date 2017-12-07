@@ -1,0 +1,5 @@
+D:\Документы\Леша\РЦР\BIC_Test_work\DBF_Work\bin\Debug\DBF_Work.dll
+D:\Документы\Леша\РЦР\BIC_Test_work\DBF_Work\bin\Debug\DBF_Work.pdb
+D:\Документы\Леша\РЦР\BIC_Test_work\DBF_Work\obj\Debug\DBF.csprojResolveAssemblyReference.cache
+D:\Документы\Леша\РЦР\BIC_Test_work\DBF_Work\obj\Debug\DBF_Work.dll
+D:\Документы\Леша\РЦР\BIC_Test_work\DBF_Work\obj\Debug\DBF_Work.pdb

@@ -1,0 +1,11 @@
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\bin\x86\Debug\BIC_Test_work.exe.config
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\bin\x86\Debug\BIC_Test_work.exe
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\bin\x86\Debug\BIC_Test_work.pdb
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\bin\x86\Debug\DBF_Work.dll
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\bin\x86\Debug\DBF_Work.pdb
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.csprojResolveAssemblyReference.cache
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.BICView.resources
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.Properties.Resources.resources
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.csproj.GenerateResource.Cache
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.exe
+D:\Документы\Леша\РЦР\BIC_Test_work\BIC_Test_work\obj\x86\Debug\BIC_Test_work.pdb
