@@ -1,2 +1,1 @@
-# MyRep
-New Repository
+Для автоматической сборки дистрибутива и отправки его в SCCM используется GitlabRunner и VisualStudio 2019.
